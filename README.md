@@ -23,7 +23,7 @@ This repository contains the code and assets related to my completion of the Pow
 ## Repository Contents
 - [`PBIX File`](https://github.com/Pandat-0052/Diversity-Inclusion-PWC/blob/main/Diversity%20And%20Inclusion.pbix): Power BI project file containing data models and visualizations.
 - [`Data`](https://github.com/Pandat-0052/Diversity-Inclusion-PWC/blob/main/Raw%20Data-%20Diversity-Inclusion-Dataset.xlsx): Folder containing dataset files used for analysis.
-- [`README.md`](https://github.com/Pandat-0052/Diversity-Inclusion-PWC/edit/main/README.md): This file providing an overview of the repository and simulation tasks.
+- [`README.md`](https://github.com/Pandat-0052/Diversity-Inclusion-PWC): This file providing an overview of the repository and simulation tasks.
 
 ## Simulation Experience
 I invite you to explore this repository to gain insights into my experience and skills developed during the PwC Switzerland Power BI simulation. 

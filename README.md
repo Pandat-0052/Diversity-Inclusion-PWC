@@ -1,8 +1,8 @@
 # <p align ="center"> PwC Switzerland Power BI Simulation
 #   <p align ="center"> Diversity & Inclusion  <div style="position: relative;">
 
-# <p align ="center">![Pic](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC/blob/main/Churn%201.JPG)</p>
-# <p align ="center">![Pic](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC/blob/main/Churn%202.JPG)</p>
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Diversity-Inclusion-PWC/blob/main/Diversity%20And%20Inclusion%20Part%201.JPG)</p>
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Diversity-Inclusion-PWC/blob/main/Diversity%20And%20Inclusion%20Part%202.JPG)</p>
 
 ## Overview
 This repository contains the code and assets related to my completion of the Power BI simulation offered by PwC Switzerland through Forage. The simulation focused on enhancing skills related to data visualization, defining key performance indicators (KPIs) for gender balance and diversity, and understanding the imperatives of diversity and inclusion in the corporate world.
@@ -21,12 +21,12 @@ This repository contains the code and assets related to my completion of the Pow
    - Recognized the role of data-driven decision-making in fostering equity and inclusivity within organizations.
 
 ## Repository Contents
-- `code/`: Contains the code scripts used to create Power BI dashboards and analyze HR data related to diversity and inclusion.
-- `assets/`: Includes screenshots or images of the Power BI dashboards created during the simulation.
-- `README.md`: This file providing an overview of the repository and simulation tasks.
+- [`PBIX File`](https://github.com/Pandat-0052/Diversity-Inclusion-PWC/blob/main/Diversity%20And%20Inclusion.pbix): Power BI project file containing data models and visualizations.
+- [`Data`](https://github.com/Pandat-0052/Diversity-Inclusion-PWC/blob/main/Raw%20Data-%20Diversity-Inclusion-Dataset.xlsx): Folder containing dataset files used for analysis.
+- [`README.md`](https://github.com/Pandat-0052/Diversity-Inclusion-PWC/edit/main/README.md): This file providing an overview of the repository and simulation tasks.
 
 ## Simulation Experience
-I invite you to explore the code and assets in this repository to gain insights into my experience and skills developed during the PwC Switzerland Power BI simulation. 
+I invite you to explore this repository to gain insights into my experience and skills developed during the PwC Switzerland Power BI simulation. 
 
 
 Feel free to reach out for any questions or further discussions!
